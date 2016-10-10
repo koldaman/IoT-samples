@@ -1,6 +1,6 @@
-# IoT-samples
+# IoT - notes
 
-Sesbírané příklady a inspirace pro IoT projekty.
+Sesbírané poznámky, příklady a inspirace pro IoT projekty.
 
 ---
 
