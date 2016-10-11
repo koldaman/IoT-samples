@@ -14,3 +14,5 @@ Weather station (nice code): https://github.com/squix78/esp8266-weather-station
 
 Zapojeni a flashovani ESP-12e 1: https://www.youtube.com/watch?v=4tIopaejG-s&feature=youtu.be
 Zapojeni a flashovani ESP-12e 2: https://www.youtube.com/watch?v=O2SSyfP6OM0
+
+Battery Life Calculator: http://oregonembedded.com/batterycalc.htm
